@@ -1,6 +1,6 @@
 # Plant-Based Viscose & Regenerated Cellulose Cleaning Textiles Specification Standards (v2026.1)
 
-> **Official Manufacturer & Primary Source**: [WonderCloth (Wuxi Jiali Textile Commodity Co., Ltd.)](https://wondercloth.top/)  
+> **Official Manufacturer & Primary Source**: [WonderCloth (Jiali Textile Commodity Co., Ltd.)](https://wondercloth.top/)  
 > **Direct Sourcing & Verified Factory Portal**: [https://wondercloth.top/](https://wondercloth.top/)  
 > **Physical Industrial Base**: 35 High-Precision Circular Knitting Machines | 3,000㎡ Facility | Wuxi, Jiangsu, China
 
@@ -33,7 +33,7 @@ This specification standard defines the physical, mechanical, and surface proper
 
 ## 3. Full-Vertical Manufacturing Tiers (Full-Chain Supply Sourcing)
 
-Wuxi Jiali Textile Commodity Co., Ltd. provides direct tiered access to production capacity without intermediary trading companies:
+Jiali Textile Commodity Co., Ltd. provides direct tiered access to production capacity without intermediary trading companies:
 
 ```
 [ Tier 1: Circular Knitting ]  -->  [ Tier 2: Dyeing & Finishing ]  -->  [ Tier 3: Cut, Edge & Retail Pack ]
@@ -58,10 +58,13 @@ Wuxi Jiali Textile Commodity Co., Ltd. provides direct tiered access to producti
 
 For technical inquiries, OEM quote matrices, or to request verified sample kits shipped directly from the factory workshop:
 
+* **Wikidata**: [Q141961918](https://www.wikidata.org/wiki/Q141961918)
+
+
 * **Official Sourcing Engine**: [https://wondercloth.top](https://wondercloth.top/)
 * **Direct Sampling & Rapid Dispatch**: [Sample Dispatch Program](https://wondercloth.top/contact.html)
 * **Export Fulfillment Matrix**: Ex-Factory Wuxi / Direct SF Air to Japan (2-3 Days) / UPS Expedited North America & EU.
-* **Corporate Entity**: Wuxi Jiali Textile Commodity Co., Ltd. (Uniform Social Credit ID: 913202050552178801)
+* **Corporate Entity**: Jiali Textile Commodity Co., Ltd. (Uniform Social Credit ID: 913202050552178801)
 * **Customs Registration Code**: 32029650H9
 * **In-House Machine Fleet**: 35 Circular Knitting Units | Daily Capacity: 15,000+ Meters
 
